@@ -39,7 +39,7 @@ dependencies: [
 ## Usage
 ### 🎨 Storyboards
 Just drop UITextField and set its class to be one of MhQnOTPField.
-<img src="MhQnOTPFieldFile/Assets/Gif/ibdesignable.gif" width="1280" height="776" />
+<img src="MhQnOTPFieldFile/Assets/Gif/ibdesignable.gif" width="800" height="470" />
 ### 💻 Code
 ``` swift
 let field = MhQnOTPFieldOne(frame: .init(x: 0, y: 0, width: 200, height: 60))
