@@ -14,9 +14,9 @@ MhQnOTPField is support the auto layout design, and solve this issue from other 
 Modifide with ❤️ by Mahmoud Qandeel."
 
   spec.homepage     = "https://github.com/Mahmoud-Qandeel"
-    spec.screenshots  = "https://github.com/Mahmoud-Qandeel/MhQnOTPField/blob/main/Gif/preview.gif", "https://github.com/Mahmoud-Qandeel/MhQnOTPField/blob/main/Gif/field_2_1.gif",
-    "https://github.com/Mahmoud-Qandeel/MhQnOTPField/blob/main/Gif/field_3.gif",
-    "https://github.com/Mahmoud-Qandeel/MhQnOTPField/blob/main/Gif/field_4.gif"
+    #spec.screenshots  = "https://github.com/Mahmoud-Qandeel/MhQnOTPField/blob/main/Gif/preview.gif", "https://github.com/Mahmoud-Qandeel/MhQnOTPField/blob/main/Gif/field_2_1.gif",
+    #"https://github.com/Mahmoud-Qandeel/MhQnOTPField/blob/main/Gif/field_3.gif",
+    #"https://github.com/Mahmoud-Qandeel/MhQnOTPField/blob/main/Gif/field_4.gif"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -52,7 +52,7 @@ Modifide with ❤️ by Mahmoud Qandeel."
   spec.source       = { :git => "https://github.com/Mahmoud-Qandeel/MhQnOTPField.git", :tag => "0.2.0" }
 
 
-  spec.source_files  = "Classes/**/*.swift"
+  spec.source_files  = "MhQnOTPFieldFile/Classes/**/*.swift"
 
   #spec.public_header_files = "Sources/**/*.h"
 
@@ -65,7 +65,7 @@ Modifide with ❤️ by Mahmoud Qandeel."
   #  non-essential files like tests, examples and documentation.
   #
 
-  spec.resources = "Assets/Gif/*.gif"
+  spec.resources = "MhQnOTPFieldFile/Assets/Gif/*.gif"
 
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
