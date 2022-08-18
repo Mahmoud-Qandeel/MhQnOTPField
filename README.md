@@ -25,13 +25,13 @@ Just add the `Sources` folder to your project.
 
 use [CocoaPods](https://cocoapods.org) with Podfile:
 ``` ruby
-pod 'MhQnOTPField', '~> 0.1'
+pod 'MhQnOTPField'
 
 # individual page control
-pod 'MhQnOTPField/One'
-pod 'MhQnOTPField/Two'
-pod 'MhQnOTPField/Three'
-pod 'MhQnOTPField/Four'
+<!--pod 'MhQnOTPField/One'-->
+<!--pod 'MhQnOTPField/Two'-->
+<!--pod 'MhQnOTPField/Three'-->
+<!--pod 'MhQnOTPField/Four'-->
 ```
 
 ### Swift Package Manager
