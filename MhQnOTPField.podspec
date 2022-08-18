@@ -4,7 +4,7 @@ name = File.basename(Dir.pwd)
 Pod::Spec.new do |spec|
 
   spec.name         = name
-  spec.version      = "0.2.0"
+  spec.version      = "0.2.3"
   spec.summary      = "MhQnOTPField is an OTP package working in swift language to help an iOS developers to working with the OTP messages."
 
   spec.description  = "MhQnOTPField is a set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc. All fields support insertion of one-time codes from SMS.
@@ -13,10 +13,7 @@ MhQnOTPField is support the auto layout design, and solve this issue from other 
 
 Modifide with ❤️ by Mahmoud Qandeel."
 
-  spec.homepage     = "https://github.com/Mahmoud-Qandeel"
-    #spec.screenshots  = "https://github.com/Mahmoud-Qandeel/MhQnOTPField/blob/main/Gif/preview.gif", "https://github.com/Mahmoud-Qandeel/MhQnOTPField/blob/main/Gif/field_2_1.gif",
-    #"https://github.com/Mahmoud-Qandeel/MhQnOTPField/blob/main/Gif/field_3.gif",
-    #"https://github.com/Mahmoud-Qandeel/MhQnOTPField/blob/main/Gif/field_4.gif"
+  spec.homepage     = "https://github.com/Mahmoud-Qandeel/MhQnOTPField.git"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -49,7 +46,7 @@ Modifide with ❤️ by Mahmoud Qandeel."
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/Mahmoud-Qandeel/MhQnOTPField.git", :tag => "0.2.0" }
+  spec.source       = { :git => "https://github.com/Mahmoud-Qandeel/MhQnOTPField.git", :tag => "0.1.0" }
 
 
   spec.source_files  = "MhQnOTPFieldFile/Classes/**/*.swift"

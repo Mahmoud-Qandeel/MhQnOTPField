@@ -1,16 +1,16 @@
 PODS:
-  - MhQnOTPField (0.1.0)
+  - MhQnOTPField (0.2.0)
 
 DEPENDENCIES:
-  - MhQnOTPField (from `../`)
+  - MhQnOTPField
 
-EXTERNAL SOURCES:
-  MhQnOTPField:
-    :path: "../"
+SPEC REPOS:
+  trunk:
+    - MhQnOTPField
 
 SPEC CHECKSUMS:
-  MhQnOTPField: d771660fc1290f876b5003a87e3c32191038027c
+  MhQnOTPField: 0fbdf2b61c7986b4f89981dfb3f2674dd51745ff
 
-PODFILE CHECKSUM: 7ff9c4a55ebd0370e6fd78abefcb7a6ea8fffc5a
+PODFILE CHECKSUM: 47d740862076beae44e7b13251471687f70e05ed
 
 COCOAPODS: 1.11.3
