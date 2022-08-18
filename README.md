@@ -27,12 +27,6 @@ use [CocoaPods](https://cocoapods.org) with Podfile:
 ``` ruby
 pod 'MhQnOTPField'
 
-# individual page control
-<!--pod 'MhQnOTPField/One'-->
-<!--pod 'MhQnOTPField/Two'-->
-<!--pod 'MhQnOTPField/Three'-->
-<!--pod 'MhQnOTPField/Four'-->
-```
 
 ### Swift Package Manager
 
