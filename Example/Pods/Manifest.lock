@@ -1,0 +1,16 @@
+PODS:
+  - MhQnOTPField (0.1.0)
+
+DEPENDENCIES:
+  - MhQnOTPField (from `../`)
+
+EXTERNAL SOURCES:
+  MhQnOTPField:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MhQnOTPField: d771660fc1290f876b5003a87e3c32191038027c
+
+PODFILE CHECKSUM: 7ff9c4a55ebd0370e6fd78abefcb7a6ea8fffc5a
+
+COCOAPODS: 1.11.3
