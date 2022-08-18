@@ -49,7 +49,7 @@ Modifide with ❤️ by Mahmoud Qandeel."
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/Mahmoud-Qandeel/MhQnOTPField.git", :tag => spec.version.to_s }
+  spec.source       = { :git => "https://github.com/Mahmoud-Qandeel/MhQnOTPField.git", :tag => "0.2.0" }
 
 
   spec.source_files  = "Classes/**/*.swift"
