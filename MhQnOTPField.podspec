@@ -1,7 +1,9 @@
 
+name = File.basename(Dir.pwd)
+
 Pod::Spec.new do |spec|
 
-  spec.name         = "MhQnOTPField"
+  spec.name         = name
   spec.version      = "0.2.0"
   spec.summary      = "MhQnOTPField is an OTP package working in swift language to help an iOS developers to working with the OTP messages."
 
@@ -50,7 +52,7 @@ Modifide with ❤️ by Mahmoud Qandeel."
   spec.source       = { :git => "https://github.com/Mahmoud-Qandeel/MhQnOTPField.git", :tag => spec.version.to_s }
 
 
-  spec.source_files  = "MhQnOTPField/Classes/**/*.swift"
+  spec.source_files  = "Classes/**/*.swift"
 
   #spec.public_header_files = "Sources/**/*.h"
 
@@ -63,7 +65,7 @@ Modifide with ❤️ by Mahmoud Qandeel."
   #  non-essential files like tests, examples and documentation.
   #
 
-  spec.resources = "MhQnOTPField/Assets/Gif/*.gif"
+  spec.resources = "Assets/Gif/*.gif"
 
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
