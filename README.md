@@ -54,7 +54,7 @@ Just change the text color for textfield as you normaly do.
 Tint color is responsible for caret color. If you want to hide a caret, just set the color to clear.
 
 ## OTP Fields
-### OTPFieldOne
+### MhQnOTPFieldOne
 <img src="MhQnOTPFieldFile/Assets/Gif/field_1.gif" width="320" height="63" />
 
 ``` swift
@@ -69,7 +69,7 @@ var boxPlaceholder: String? // placeholder text
 var boxPlaceholderColor: UIColor? // placeholder text color
 ```
 
-### OTPFieldTwo
+### MhQnOTPFieldTwo
 <img src="MhQnOTPFieldFile/Assets/Gif/field_2_1.gif" width="320" height="58" />
 <img src="MhQnOTPFieldFile/Assets/Gif/field_2_2.gif" width="320" height="61" />
 
@@ -87,7 +87,7 @@ var boxPlaceholder: String? // placeholder text
 var boxPlaceholderColor: UIColor? // placeholder text color
 ```
 
-### OTPFieldThree
+### MhQnOTPFieldThree
 <img src="MhQnOTPFieldFile/Assets/Gif/field_3.gif" width="320" height="67" />
 
 ``` swift
@@ -99,7 +99,7 @@ var borderCornerRadius: CGFloat // bottom border radius
 var dotRadius: CGFloat // dot radius when text is entered
 ```
 
-### OTPFieldFour
+### MhQnOTPFieldFour
 <img src="MhQnOTPFieldFile/Assets/Gif/field_4.gif" width="320" height="73" />
 
 ``` swift
