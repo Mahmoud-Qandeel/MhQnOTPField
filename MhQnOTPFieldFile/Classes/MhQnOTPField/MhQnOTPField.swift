@@ -56,6 +56,7 @@ open class MhQnOTPField<Label: POTPLabel>: UITextField, UITextFieldDelegate {
         s.distribution = .fillEqually
         s.isUserInteractionEnabled = false
         s.spacing = CGFloat(spacing)
+        s.semanticContentAttribute = .forceLeftToRight
         return s
     }()
 
