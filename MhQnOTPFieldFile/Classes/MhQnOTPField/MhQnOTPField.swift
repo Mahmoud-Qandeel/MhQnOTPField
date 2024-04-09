@@ -81,7 +81,7 @@ open class MhQnOTPField<Label: POTPLabel>: UITextField, UITextFieldDelegate {
 
     private func setup() {
         textColor = .clear
-        keyboardType = .numberPad
+        keyboardType = .asciiCapableNumberPad
         borderStyle = .none
 
         if #available(iOS 12.0, *) {
