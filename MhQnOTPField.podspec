@@ -50,6 +50,7 @@ Modifide with ❤️ by Mahmoud Qandeel."
 
 
   spec.source_files  = "MhQnOTPFieldFile/Classes/**/*.swift"
+  spec.readme = "README.md"
 
   #spec.public_header_files = "Sources/**/*.h"
 
