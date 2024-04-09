@@ -8,7 +8,7 @@ Modifide with ❤️ by [Mahmoud Qandeel](https://www.linkedin.com/in/mahmoud-wa
 
 ## Overview
 
-<img src="MhQnOTPFieldFile/Assets/Gif/preview.gif" width="500" height="164" />
+<img src="https://raw.githubusercontent.com/Mahmoud-Qandeel/MhQnOTPField/master/MhQnOTPFieldFile/Assets/Gif/preview.gif" width="500" height="164" />
 
 ## Requirements
 
@@ -32,14 +32,14 @@ pod 'MhQnOTPField'
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/Mahmoud-Qandeel/MhQnOTPField", .upToNextMajor(from: "0.1"))
+    .package(url: "https://github.com/Mahmoud-Qandeel/MhQnOTPField", .upToNextMajor(from: "0.3.0"))
 ]
 ```
 
 ## Usage
 ### 🎨 Storyboards
 Just drop UITextField and set its class to be one of MhQnOTPField.
-<img src="MhQnOTPFieldFile/Assets/Gif/ibdesignable.gif" width="800" height="470" />
+<img src="https://raw.githubusercontent.com/Mahmoud-Qandeel/MhQnOTPField/master/MhQnOTPFieldFile/Assets/Gif/ibdesignable.gif" width="800" height="470" />
 ### 💻 Code
 ``` swift
 let field = MhQnOTPFieldOne(frame: .init(x: 0, y: 0, width: 200, height: 60))
@@ -55,7 +55,7 @@ Tint color is responsible for caret color. If you want to hide a caret, just set
 
 ## OTP Fields
 ### MhQnOTPFieldOne
-<img src="MhQnOTPFieldFile/Assets/Gif/field_1.gif" width="320" height="63" />
+<img src="https://raw.githubusercontent.com/Mahmoud-Qandeel/MhQnOTPField/master/MhQnOTPFieldFile/Assets/Gif/field_1.gif" width="320" height="63" />
 
 ``` swift
 var numberOfDigits: Int // number of boxes for digits
@@ -70,8 +70,8 @@ var boxPlaceholderColor: UIColor? // placeholder text color
 ```
 
 ### MhQnOTPFieldTwo
-<img src="MhQnOTPFieldFile/Assets/Gif/field_2_1.gif" width="320" height="58" />
-<img src="MhQnOTPFieldFile/Assets/Gif/field_2_2.gif" width="320" height="61" />
+<img src="https://raw.githubusercontent.com/Mahmoud-Qandeel/MhQnOTPField/master/MhQnOTPFieldFile/Assets/Gif/field_2_1.gif" width="320" height="58" />
+<img src="https://raw.githubusercontent.com/Mahmoud-Qandeel/MhQnOTPField/master/MhQnOTPFieldFile/Assets/Gif/field_2_2.gif" width="320" height="61" />
 
 ``` swift
 var numberOfDigits: Int // number of boxes for digits
@@ -88,7 +88,7 @@ var boxPlaceholderColor: UIColor? // placeholder text color
 ```
 
 ### MhQnOTPFieldThree
-<img src="MhQnOTPFieldFile/Assets/Gif/field_3.gif" width="320" height="67" />
+<img src="https://raw.githubusercontent.com/Mahmoud-Qandeel/MhQnOTPField/master/MhQnOTPFieldFile/Assets/Gif/field_3.gif" width="320" height="67" />
 
 ``` swift
 var numberOfDigits: Int // number of boxes for digits
@@ -100,7 +100,7 @@ var dotRadius: CGFloat // dot radius when text is entered
 ```
 
 ### MhQnOTPFieldFour
-<img src="MhQnOTPFieldFile/Assets/Gif/field_4.gif" width="320" height="73" />
+<img src="https://raw.githubusercontent.com/Mahmoud-Qandeel/MhQnOTPField/master/MhQnOTPFieldFile/Assets/Gif/field_4.gif" width="320" height="73" />
 
 ``` swift
 var numberOfDigits: Int // number of boxes for digits

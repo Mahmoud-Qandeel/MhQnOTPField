@@ -28,7 +28,7 @@ Modifide with ❤️ by Mahmoud Qandeel."
   spec.author             = { "Mahmoud Qandeel" => "mahmoud.waleed2015@gmail.com" }
   # Or just: spec.author    = "Mahmoud Qandeel"
   # spec.authors            = { "Mahmoud Qandeel" => "mahmoud.waleed2015@gmail.com" }
-    spec.social_media_url   = "https://www.linkedin.com/in/mahmoud-waleed-440772206"
+    spec.social_media_url   = "https://github.com/Mahmoud-Qandeel"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -46,7 +46,7 @@ Modifide with ❤️ by Mahmoud Qandeel."
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/Mahmoud-Qandeel/MhQnOTPField.git", :tag => "0.1.0" }
+  spec.source       = { :git => "https://github.com/Mahmoud-Qandeel/MhQnOTPField.git", :tag => "0.3.0" }
 
 
   spec.source_files  = "MhQnOTPFieldFile/Classes/**/*.swift"
