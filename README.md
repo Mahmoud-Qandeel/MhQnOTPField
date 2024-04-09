@@ -32,7 +32,7 @@ pod 'MhQnOTPField'
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/Mahmoud-Qandeel/MhQnOTPField", .upToNextMajor(from: "0.3.3"))
+    .package(url: "https://github.com/Mahmoud-Qandeel/MhQnOTPField", .upToNextMajor(from: "0.3.4"))
 ]
 ```
 
@@ -112,4 +112,4 @@ var cornerRadius: CGFloat // corner radius of the box
 ```
 
 ## License
-MhQnOTPField is released under the MIT license. See [LICENSE](./LICENSE) for details.
+MhQnOTPField is released under the MIT license. See [LICENSE](https://github.com/Mahmoud-Qandeel/MhQnOTPField/blob/0.3.4/LICENSE) for details.
