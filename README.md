@@ -32,7 +32,7 @@ pod 'MhQnOTPField'
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/Mahmoud-Qandeel/MhQnOTPField", .upToNextMajor(from: "0.3.1"))
+    .package(url: "https://github.com/Mahmoud-Qandeel/MhQnOTPField", .upToNextMajor(from: "0.3.2"))
 ]
 ```
 
