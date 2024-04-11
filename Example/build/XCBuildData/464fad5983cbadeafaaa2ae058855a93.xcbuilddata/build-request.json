@@ -1,0 +1,50 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98fa13011f373bff367632f327ff6dcd5a"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9803852ab54c569c538c6544ecc3d48c94"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e986294dda9815122675aee130c62d48278"
+    }
+  ],
+  "containerPath" : "/Library/Documents/swift_app_by_Mahmoud/MhQnOTPField_/MhQnOTPField/Example/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/amrozaqout/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/amrozaqout/Library/Developer/Xcode/DerivedData/Pods-heggahmznajpzsefafvqcvubeubk/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/amrozaqout/Library/Developer/Xcode/DerivedData/Pods-heggahmznajpzsefafvqcvubeubk/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}

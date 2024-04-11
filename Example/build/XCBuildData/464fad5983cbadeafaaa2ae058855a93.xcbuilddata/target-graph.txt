@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'Pods-MhQnOTPField_Tests' in project 'Pods'
+➜ Explicit dependency on target 'Pods-MhQnOTPField_Example' in project 'Pods'
+Target 'Pods-MhQnOTPField_Example' in project 'Pods'
+➜ Explicit dependency on target 'MhQnOTPField' in project 'Pods'
+Target 'MhQnOTPField' in project 'Pods' (no dependencies)

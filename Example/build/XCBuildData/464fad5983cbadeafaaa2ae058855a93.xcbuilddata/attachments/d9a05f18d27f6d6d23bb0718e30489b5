@@ -1,0 +1,5 @@
+ extern const unsigned char MhQnOTPFieldVersionString[];
+ extern const double MhQnOTPFieldVersionNumber;
+
+ const unsigned char MhQnOTPFieldVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:MhQnOTPField  PROJECT:Pods-1" "\n";
+ const double MhQnOTPFieldVersionNumber __attribute__ ((used)) = (double)1.;

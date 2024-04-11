@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Library/Documents/swift_app_by_Mahmoud/MhQnOTPField_/MhQnOTPField/Example/build/Release-iphoneos/MhQnOTPField/MhQnOTPField.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Library/Documents/swift_app_by_Mahmoud/MhQnOTPField_/MhQnOTPField/Example/build/Pods.build/Release-iphoneos/MhQnOTPField.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Library/Documents/swift_app_by_Mahmoud/MhQnOTPField_/MhQnOTPField/Example/build/Release-iphoneos/MhQnOTPField/MhQnOTPField.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "MhQnOTPField-Swift.h",
+      'external-contents': "/Library/Documents/swift_app_by_Mahmoud/MhQnOTPField_/MhQnOTPField/Example/build/Pods.build/Release-iphoneos/MhQnOTPField.build/unextended-interface-header.h",
+    }]
+    }]
+}

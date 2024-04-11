@@ -1,0 +1,11 @@
+framework module MhQnOTPField {
+  umbrella header "MhQnOTPField-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module MhQnOTPField.Swift {
+  header "MhQnOTPField-Swift.h"
+  requires objc
+}
