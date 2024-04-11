@@ -30,9 +30,6 @@ Modifide with ❤️ by Mahmoud Qandeel."
   # spec.authors            = { "Mahmoud Qandeel" => "mahmoud.waleed2015@gmail.com" }
     spec.social_media_url   = "https://github.com/Mahmoud-Qandeel"
 
-    spec.screenshots  = "https://raw.githubusercontent.com/Mahmoud-Qandeel/MhQnOTPField/master/MhQnOTPFieldFile/Assets/Gif//preview.gif", "https://raw.githubusercontent.com/Mahmoud-Qandeel/MhQnOTPField/master/MhQnOTPFieldFile/Assets/Gif//field_2_1.gif",
-    "https://raw.githubusercontent.com/Mahmoud-Qandeel/MhQnOTPField/master/MhQnOTPFieldFile/Assets/Gif//field_3.gif",
-    "https://raw.githubusercontent.com/Mahmoud-Qandeel/MhQnOTPField/master/MhQnOTPFieldFile/Assets/Gif//field_4.gif"
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
   #  If this Pod runs only on iOS or OS X, then specify the platform and
