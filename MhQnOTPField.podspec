@@ -4,7 +4,7 @@ name = File.basename(Dir.pwd)
 Pod::Spec.new do |spec|
 
   spec.name         = name
-  spec.version      = "0.3.4"
+  spec.version      = "0.3.5"
   spec.summary      = "MhQnOTPField is an OTP package working in swift language to help an iOS developers to working with the OTP messages."
 
   spec.description  = "MhQnOTPField is a set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc. All fields support insertion of one-time codes from SMS.
@@ -30,6 +30,9 @@ Modifide with ❤️ by Mahmoud Qandeel."
   # spec.authors            = { "Mahmoud Qandeel" => "mahmoud.waleed2015@gmail.com" }
     spec.social_media_url   = "https://github.com/Mahmoud-Qandeel"
 
+    spec.screenshots  = "https://raw.githubusercontent.com/Mahmoud-Qandeel/MhQnOTPField/master/MhQnOTPFieldFile/Assets/Gif//preview.gif", "https://raw.githubusercontent.com/Mahmoud-Qandeel/MhQnOTPField/master/MhQnOTPFieldFile/Assets/Gif//field_2_1.gif",
+    "https://raw.githubusercontent.com/Mahmoud-Qandeel/MhQnOTPField/master/MhQnOTPFieldFile/Assets/Gif//field_3.gif",
+    "https://raw.githubusercontent.com/Mahmoud-Qandeel/MhQnOTPField/master/MhQnOTPFieldFile/Assets/Gif//field_4.gif"
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
   #  If this Pod runs only on iOS or OS X, then specify the platform and
@@ -46,7 +49,7 @@ Modifide with ❤️ by Mahmoud Qandeel."
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/Mahmoud-Qandeel/MhQnOTPField.git", :tag => "0.3.4" }
+  spec.source       = { :git => "https://github.com/Mahmoud-Qandeel/MhQnOTPField.git", :tag => "0.3.5" }
 
 
   spec.source_files  = "MhQnOTPFieldFile/Classes/**/*.swift"
