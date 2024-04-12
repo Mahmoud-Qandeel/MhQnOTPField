@@ -25,7 +25,7 @@ Just add the `Sources` folder to your project.
 
 use [CocoaPods](https://cocoapods.org) with Podfile:
 ``` ruby
-pod 'MhQnOTPField', '~> 0.3.6'
+pod 'MhQnOTPField', '~> 1.0'
 
 # individual page control
 pod 'MhQnOTPField/One'
@@ -38,7 +38,7 @@ pod 'MhQnOTPField/Four'
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/Mahmoud-Qandeel/MhQnOTPField", .upToNextMajor(from: "0.3.6"))
+    .package(url: "https://github.com/Mahmoud-Qandeel/MhQnOTPField", .upToNextMajor(from: "1.0"))
 ]
 ```
 
@@ -118,4 +118,4 @@ var cornerRadius: CGFloat // corner radius of the box
 ```
 
 ## License
-MhQnOTPField is released under the MIT license. See [LICENSE](https://github.com/Mahmoud-Qandeel/MhQnOTPField/blob/0.3.6/LICENSE) for details.
+MhQnOTPField is released under the MIT license. See [LICENSE](https://github.com/Mahmoud-Qandeel/MhQnOTPField/blob/1.0/LICENSE) for details.

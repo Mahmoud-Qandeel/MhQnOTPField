@@ -4,7 +4,7 @@ name = File.basename(Dir.pwd)
 Pod::Spec.new do |spec|
 
   spec.name         = name
-  spec.version      = "0.3.6"
+  spec.version      = "1.0"
   spec.summary      = "MhQnOTPField is an OTP package working in swift language to help an iOS developers to working with the OTP messages."
 
   spec.description  = "MhQnOTPField is a set of textfields that can be used for One-time passwords, SMS codes, PIN codes, etc. All fields support insertion of one-time codes from SMS.
@@ -46,7 +46,7 @@ Modifide with ❤️ by Mahmoud Qandeel."
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  spec.source       = { :git => "https://github.com/Mahmoud-Qandeel/MhQnOTPField.git", :tag => "0.3.6" }
+  spec.source       = { :git => "https://github.com/Mahmoud-Qandeel/MhQnOTPField.git", :tag => "1.0" }
 
 
   spec.source_files  = "MhQnOTPFieldFile/Classes/**/*.swift"
